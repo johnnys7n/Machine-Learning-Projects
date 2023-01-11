@@ -10,4 +10,4 @@ In this [project](https://github.com/johnnys7n/Machine-Learning-Projects/tree/ma
 
 ## Project 3: Credit Card Fraud Detection
 In this [project](https://github.com/johnnys7n/Machine-Learning-Projects/tree/main/Project%203%20Credit%20Card%20Fraud) I look at how we can use a Logistic Regression model to parse out the fraud activities from normal credit card transactions:
-<img title='creditcard' src='https://images.unsplash.com/photo-1613243555978-636c48dc653c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80'>
+<img title='creditcard' src='https://storage.googleapis.com/kaggle-datasets-images/310/684/3503c6c827ca269cc00ffa66f2a9c207/dataset-cover.jpg'>
