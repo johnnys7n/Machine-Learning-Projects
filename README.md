@@ -23,4 +23,4 @@ In this [project](https://github.com/johnnys7n/Machine-Learning-Projects/tree/ma
 
 ## Project 4: BigMart Sales Prediction
 In this [project](https://github.com/johnnys7n/Machine-Learning-Projects/tree/main/Project%203%20Credit%20Card%20Fraud) I look at how we can use a XGBRegression model to check out trends from a Sales data
-<img title='creditcard' src='https://i.ytimg.com/vi/Q2aQR16LmEg/maxresdefault.jpg' width='830' height='174.73'>
+<img title='creditcard' src='https://storage.googleapis.com/kaggle-datasets-images/905262/1535166/73ceacc6c91503076da44c32003f513c/dataset-cover.png?t=2020-10-04-04-25-02'>
