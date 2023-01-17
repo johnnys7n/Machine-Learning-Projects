@@ -23,7 +23,7 @@ In this [project](https://github.com/johnnys7n/Machine-Learning-Projects/tree/ma
 
 ## Project 4: BigMart Sales Prediction
 In this [project](https://github.com/johnnys7n/Machine-Learning-Projects/tree/main/Project%204%20BigMart%20Sales%20Prediction) I look at how we can use a XGBRegression model to check out trends from a Sales data
-<img title='bigmart' src='https://datahack-prod.s3.ap-south-1.amazonaws.com/__sized__/contest_cover/final-grocery--cover-thumbnail-1200x1200.png' width='830' height='174.73'>
+<img title='bigmart' src='https://editor.analyticsvidhya.com/uploads/95051Cardiovascular-Disease.jpg' width='830' height='174.73'>
 
 ## Project 5: Heart Disease Prediction
 In this [project](https://github.com/johnnys7n/Machine-Learning-Projects/tree/main/Project%205%20Heart%20Disease%20Prediction%20) I look at how we can use a the logistic Regression model to build a prediction for Heart Disease detection
