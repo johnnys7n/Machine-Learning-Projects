@@ -27,4 +27,4 @@ In this [project](https://github.com/johnnys7n/Machine-Learning-Projects/tree/ma
 
 ## Project 5: Heart Disease Prediction
 In this [project](https://github.com/johnnys7n/Machine-Learning-Projects/tree/main/Project%205%20Heart%20Disease%20Prediction%20) I look at how we can use a the logistic Regression model to build a prediction for Heart Disease detection
-<img title='https://editor.analyticsvidhya.com/uploads/95051Cardiovascular-Disease.jpg' width='830' height='174.73'>
+<img title='heart disease' src='https://editor.analyticsvidhya.com/uploads/95051Cardiovascular-Disease.jpg' width='830' height='174.73'>
