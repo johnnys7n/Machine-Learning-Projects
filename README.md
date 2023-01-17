@@ -22,5 +22,9 @@ In this [project](https://github.com/johnnys7n/Machine-Learning-Projects/tree/ma
 <img title='creditcard' src='https://storage.googleapis.com/kaggle-datasets-images/310/684/3503c6c827ca269cc00ffa66f2a9c207/dataset-cover.jpg'>
 
 ## Project 4: BigMart Sales Prediction
-In this [project](https://github.com/johnnys7n/Machine-Learning-Projects/tree/main/Project%203%20Credit%20Card%20Fraud) I look at how we can use a XGBRegression model to check out trends from a Sales data
+In this [project](https://github.com/johnnys7n/Machine-Learning-Projects/tree/main/Project%204%20BigMart%20Sales%20Prediction) I look at how we can use a XGBRegression model to check out trends from a Sales data
 <img title='bigmart' src='https://datahack-prod.s3.ap-south-1.amazonaws.com/__sized__/contest_cover/final-grocery--cover-thumbnail-1200x1200.png' width='830' height='174.73'>
+
+## Project 5: Heart Disease Prediction
+In this [project](https://github.com/johnnys7n/Machine-Learning-Projects/tree/main/Project%205%20Heart%20Disease%20Prediction) I look at how we can use a the logistic Regression model to build a prediction for Heart Disease detection
+<img title='https://www.europeanpharmaceuticalreview.com/wp-content/uploads/AI-heart-750x500.jpg' width='830' height='174.73'>
